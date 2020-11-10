@@ -1,0 +1,1 @@
+Warning: You have more than x black strongboxes. If you don&apos;t open them now any black strongboxes past the x limit will be lost

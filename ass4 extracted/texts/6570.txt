@@ -1,0 +1,1 @@
+DamageRate of FireRangeTotal Ammo

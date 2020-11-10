@@ -1,0 +1,16 @@
+package assets.ui.dialog
+{
+   import flash.display.MovieClip;
+   
+   public dynamic class MobilePromoPanelDialogAsset extends MovieClip
+   {
+       
+      
+      public var dialogContainer:MovieClip;
+      
+      public function MobilePromoPanelDialogAsset()
+      {
+         super();
+      }
+   }
+}

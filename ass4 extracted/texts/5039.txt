@@ -1,0 +1,3 @@
+Turns on/off blood and guts.
+--- RECORDSEPARATOR ---
+Increases performance

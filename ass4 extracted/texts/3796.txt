@@ -1,0 +1,1 @@
+Your fire control system only supports 2 active turrets. Placing a 3rd turret disables a prior one.

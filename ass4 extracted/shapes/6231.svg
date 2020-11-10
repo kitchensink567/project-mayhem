@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="165.0px" width="328.05px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 1.1, 0.0)">
+    <path d="M326.95 165.0 L0.1 165.0 0.1 0.0 326.95 0.0 326.95 165.0" fill="#000000" fill-opacity="0.8" fill-rule="evenodd" stroke="none"/>
+    <path d="M325.7 148.5 L325.35 148.5 325.35 147.85 0.0 147.85 0.0 25.25 325.7 25.25 325.7 148.5" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M325.35 148.65 L325.7 148.65 325.7 148.75 325.35 148.75 325.35 148.65" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    <path d="M65.7 149.55 Q7.6 148.6 -1.1 148.1 L161.45 148.1 325.9 148.05 Q295.65 149.95 241.65 149.95 187.35 149.95 155.5 150.2 123.75 150.45 65.7 149.55" fill="url(#gradient2)" fill-rule="evenodd" stroke="none"/>
+    <path d="M66.05 26.55 Q8.0 25.6 -0.7 25.1 L161.85 25.1 326.25 25.05 Q296.0 26.95 242.05 26.95 187.7 26.95 155.9 27.2 124.15 27.45 66.05 26.55" fill="url(#gradient3)" fill-rule="evenodd" stroke="none"/>
+    <path d="M326.55 128.0 L-0.6 128.0 -0.6 68.5 326.55 68.5 326.55 128.0" fill="url(#gradient4)" fill-rule="evenodd" stroke="none"/>
+  </g>
+  <defs>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.209, 0.0, 0.0, 0.1165, 164.25, 26.65)" gradientUnits="userSpaceOnUse" id="gradient0" r="819.2" spreadMethod="pad">
+      <stop offset="0.00784313725490196" stop-color="#920000"/>
+      <stop offset="1.0" stop-color="#660000"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.209, 0.0, 0.0, 0.1165, 164.25, 26.65)" gradientUnits="userSpaceOnUse" id="gradient1" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#990000"/>
+      <stop offset="1.0" stop-color="#230000"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.2015, 0.0, 0.0, 0.3841, 162.35, 149.15)" gradientUnits="userSpaceOnUse" id="gradient2" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#ff0000"/>
+      <stop offset="1.0" stop-color="#ff0000" stop-opacity="0.0"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.2015, 0.0, 0.0, 0.3841, 162.7, 26.15)" gradientUnits="userSpaceOnUse" id="gradient3" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#ff0000"/>
+      <stop offset="1.0" stop-color="#ff0000" stop-opacity="0.0"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.2259, 0.0, 0.0, 0.1045, 177.85, 30.55)" gradientUnits="userSpaceOnUse" id="gradient4" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#250000"/>
+      <stop offset="1.0" stop-color="#330000"/>
+    </radialGradient>
+  </defs>
+</svg>

@@ -1,0 +1,1 @@
+Black key rewardDiamond: 4% chancePlatinum: 1% chanceGold: 0.1% chance

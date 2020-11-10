@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="600.2px" width="802.15px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 2.05, -0.95)">
+    <path d="M-2.05 181.0 L-2.05 0.95 178.0 0.95 178.0 181.0 -2.05 181.0" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M800.1 181.0 L620.05 181.0 620.05 0.95 800.1 0.95 800.1 181.0" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    <path d="M800.1 421.1 L800.1 601.15 620.05 601.15 620.05 421.1 800.1 421.1" fill="url(#gradient2)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-2.05 421.1 L178.0 421.1 178.0 601.15 -2.05 601.15 -2.05 421.1" fill="url(#gradient3)" fill-rule="evenodd" stroke="none"/>
+  </g>
+  <defs>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.3281, 0.0, 0.0, -0.3281, 174.0, 179.0)" gradientUnits="userSpaceOnUse" id="gradient0" r="819.2" spreadMethod="pad">
+      <stop offset="0.6509803921568628" stop-color="#ffffff" stop-opacity="0.0"/>
+      <stop offset="1.0" stop-color="#ffffff"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(-0.3281, 0.0, 0.0, -0.3281, 624.05, 179.0)" gradientUnits="userSpaceOnUse" id="gradient1" r="819.2" spreadMethod="pad">
+      <stop offset="0.6509803921568628" stop-color="#ffffff" stop-opacity="0.0"/>
+      <stop offset="1.0" stop-color="#ffffff"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(-0.3281, 0.0, 0.0, 0.3281, 624.05, 423.1)" gradientUnits="userSpaceOnUse" id="gradient2" r="819.2" spreadMethod="pad">
+      <stop offset="0.6509803921568628" stop-color="#ffffff" stop-opacity="0.0"/>
+      <stop offset="1.0" stop-color="#ffffff"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.3281, 0.0, 0.0, 0.3281, 174.0, 423.1)" gradientUnits="userSpaceOnUse" id="gradient3" r="819.2" spreadMethod="pad">
+      <stop offset="0.6509803921568628" stop-color="#ffffff" stop-opacity="0.0"/>
+      <stop offset="1.0" stop-color="#ffffff"/>
+    </radialGradient>
+  </defs>
+</svg>

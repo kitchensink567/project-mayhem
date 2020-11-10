@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="25.05px" width="827.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.95)">
+    <path d="M827.4 26.0 L371.65 26.0 236.85 26.0 0.0 26.0 37.9 0.95 236.85 0.95 371.65 0.95 827.7 0.95 827.4 26.0" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M150.3 17.3 L150.3 21.5 Q150.3 22.5 149.5 22.5 L139.75 22.5 Q139.0 22.5 139.0 21.5 L139.0 17.3 Q139.0 16.3 139.75 16.3 L149.5 16.3 Q150.3 16.3 150.3 17.3" fill="#1db2ea" fill-rule="evenodd" stroke="none"/>
+    <path d="M147.7 18.25 L147.7 20.55 Q147.7 21.1 147.25 21.1 L141.9 21.1 Q141.5 21.1 141.5 20.55 L141.5 18.25 Q141.5 17.7 141.9 17.7 L147.25 17.7 Q147.7 17.7 147.7 18.25" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    <path d="M152.25 21.4 L149.35 21.4 Q149.1 21.4 149.1 20.75 L149.1 18.05 Q149.1 17.4 149.35 17.4 L152.25 17.4 Q152.5 17.4 152.5 18.05 L152.5 20.75 152.25 21.4" fill="#1db2ea" fill-rule="evenodd" stroke="none"/>
+    <path d="M158.65 11.2 L155.9 11.2 155.9 13.95 153.75 13.95 153.75 11.2 151.0 11.2 151.0 9.05 153.75 9.05 153.75 6.3 155.9 6.3 155.9 9.05 158.65 9.05 158.65 11.2" fill="#00ff99" fill-rule="evenodd" stroke="none"/>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(0.0, -0.0259, 0.0186, 0.0, 411.35, 19.65)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#000000" stop-opacity="0.0"/>
+      <stop offset="1.0" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+</svg>

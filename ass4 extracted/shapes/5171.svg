@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="146.5px" width="471.95px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -3.95, -32.55)">
+    <path d="M3.95 32.55 L475.9 32.55 475.9 179.05 3.95 179.05 3.95 32.55" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M467.35 174.7 L357.9 174.7 357.9 109.9 467.35 109.9 467.35 174.7 M352.6 174.7 L243.15 174.7 243.15 109.9 352.6 109.9 352.6 174.7 M467.35 103.2 L357.9 103.2 357.9 38.4 467.35 38.4 467.35 103.2 M352.6 103.2 L243.15 103.2 243.15 38.4 352.6 38.4 352.6 103.2 M235.6 174.7 L126.15 174.7 126.15 109.9 235.6 109.9 235.6 174.7 M235.6 103.2 L126.15 103.2 126.15 38.4 235.6 38.4 235.6 103.2 M120.35 174.7 L10.9 174.7 10.9 109.9 120.35 109.9 120.35 174.7 M120.35 103.2 L10.9 103.2 10.9 38.4 120.35 38.4 120.35 103.2" fill="#000000" fill-opacity="0.4" fill-rule="evenodd" stroke="none"/>
+  </g>
+  <defs>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.3087, 0.0, 0.0, 0.2274, 242.3, 33.4)" gradientUnits="userSpaceOnUse" id="gradient0" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#990000"/>
+      <stop offset="1.0" stop-color="#230000"/>
+    </radialGradient>
+  </defs>
+</svg>

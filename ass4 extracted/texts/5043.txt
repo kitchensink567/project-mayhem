@@ -1,0 +1,3 @@
+Turns on/off some Visual effects.
+--- RECORDSEPARATOR ---
+Increases performance

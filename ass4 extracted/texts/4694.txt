@@ -1,0 +1,1 @@
+Version 1.6 : faster reload 10%, cryo grnade 5% less damage, Onslaught map more zom spawnsVersion 1.5 : Less zom pods, zombdroid V2 increased damage 6%Version 1.4 : more stuff thats updatedVersion 1.3 : more stuff, more zomsVersion 1.2 : even more, updates etcVersion 1.1 : some updated things

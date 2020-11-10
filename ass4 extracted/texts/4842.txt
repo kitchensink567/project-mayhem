@@ -1,0 +1,3 @@
+Slow connection detected. May affect game 
+--- RECORDSEPARATOR ---
+performance. 

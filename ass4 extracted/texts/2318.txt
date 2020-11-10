@@ -1,0 +1,3 @@
+Are you sure you want to delete this Character? You will lose 
+--- RECORDSEPARATOR ---
+all of this characters XP, cash, weapons, skills etc.
